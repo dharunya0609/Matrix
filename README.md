@@ -1,2 +1,2 @@
 # Matrix
-C programs in Matrix which I practice !
+C programs in Matrix which I practiced !
